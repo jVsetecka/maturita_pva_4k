@@ -1,5 +1,7 @@
 # Procvičování
 
+Naklonujte si tento repozitář a vypracujte jednotlivé úlohy do připravených projektů. Hotovou práci odevzdejte jako odkaz na váš repozitář na Teams.
+
 ## 2. Konvence, klíčová slova, datové a výčtové typy, proměnná, konstanta, přetypování a konverze datových typů, referenční a hodnotové datové typy
 
 ### Level 1
